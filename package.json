@@ -1,0 +1,20 @@
+{
+  "name": "peer2peer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dat-swarm-defaults": "^1.0.2",
+    "discovery-swarm": "^5.1.4",
+    "express": "^4.16.4",
+    "get-port": "^5.0.0",
+    "mongodb": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ramy Gouiaa",
+  "license": "ISC"
+}
